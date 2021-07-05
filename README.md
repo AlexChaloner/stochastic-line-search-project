@@ -1,8 +1,8 @@
-# Stochastic Gradient Descent with Momentum using Armijo Line Search
+# Accelerated Stochastic Gradient Descent using Armijo Line Search
 
 ## DISCLAIMER
 
-I am not the writer of the original SLS code.
+I am not the writer of the main codebase -- I only appended the optimisers for the momentum algorithms.
 This project and paper were completed in three weeks. It is unpolished and not peer reviewed. I have no affiliation with the authors of the [original paper](sls_paper).
 
 ## About
