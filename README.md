@@ -2,8 +2,8 @@
 
 ## Disclaimer
 
-I am not the writer of the main codebase -- I only appended the optimisers for the momentum algorithms.
-This project and paper were completed in three weeks. It is unpolished and not peer reviewed. I have no affiliation with the authors of the [original paper][sls_paper].
+I am not the writer of the main codebase -- I only appended the optimisers for the momentum algorithms. Original code can be found [here][sls_code].
+This project and paper were completed in three weeks - it is unpolished and not peer reviewed. I have no affiliation with the authors of the [original paper][sls_paper].
 
 ## About
 
@@ -11,3 +11,4 @@ An investigation on the stochastic line search with momentum presented in the [o
 
 
 [sls_paper]: https://arxiv.org/abs/1905.09997
+[sls_code]: https://github.com/IssamLaradji/sls
